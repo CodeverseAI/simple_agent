@@ -1,0 +1,9 @@
+google-generativeai
+python-dotenv
+streamlit
+langchain
+langchain-google-genai
+tavily-python
+faiss-cpu
+beautifulsoup4
+pypdf
